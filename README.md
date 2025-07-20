@@ -143,7 +143,7 @@ Perfect example of **algorithm selection** being more important than parameter o
 ### Testing Suite
 - **Unit tests**: Individual component validation
 - **Integration tests**: Algorithm behavior verification
-- **Tournament tests**: Head-to-head performance comparison
+- **Tournament analysis**: Head-to-head performance comparison (in Jupyter notebook)
 - **Master test runner**: Run everything with `python run_all_tests.py`
 
 ## Research Applications
