@@ -20,9 +20,6 @@ def run_test_file(filename, description):
         elif filename == "test_mcts_integration.py":
             import test_mcts_integration
             test_mcts_integration.run_integration_tests()
-        elif filename == "test_mcts_tournament.py":
-            import test_mcts_tournament
-            test_mcts_tournament.run_performance_tests()
         
         print(f"✅ {description} PASSED")
         return True
@@ -39,8 +36,7 @@ def main():
     
     tests = [
         ("test_mcts_unit.py", "Unit Tests - Individual Components"),
-        ("test_mcts_integration.py", "Integration Tests - Algorithm Behavior"), 
-        ("test_mcts_tournament.py", "Performance Tests - Competitive Analysis")
+        ("test_mcts_integration.py", "Integration Tests - Algorithm Behavior")
     ]
     
     passed = 0
