@@ -113,7 +113,7 @@ mcts-connect4-recovered/
 
 1. **`connect4_algorithm_analysis.ipynb`** - Main experimental notebook with all analysis
 2. **`minimax.py`** - See alpha-beta pruning implementation
-3. **`mcts.py`** - MCTS implementation (works better in other domains!)
+3. **`mcts.py`** - MCTS implementation 
 4. **`game.py`** - Play interactively to get intuition for the algorithms
 
 ## Technical Notes
