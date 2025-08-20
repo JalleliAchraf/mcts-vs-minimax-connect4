@@ -166,7 +166,3 @@ This project demonstrates key concepts for computer science research:
 - **Multiple independent runs** for validation
 
 ---
-
-**Built for learning practical algorithm comparison and experimental methodology.**
-
-*Perfect for bachelor's thesis work, algorithm courses, or anyone interested in seeing why "newer" isn't always "better" in AI.*
